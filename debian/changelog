@@ -1,4 +1,4 @@
-hpsdrconnector (0.4.2-1) UNRELEASED; urgency=medium
+hpsdrconnector (0.4.2-1) buster; urgency=medium
 
   * Initial release
 
