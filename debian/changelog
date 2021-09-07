@@ -1,3 +1,9 @@
+hpsdrconnector (0.6.0-1) UNRELEASED; urgency=low
+
+  * multi-receiver support
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Tue, 07 Sep 2021 20:24:00 +0000
+
 hpsdrconnector (0.4.2-2) hirsute; urgency=low
 
   * New build for Ubuntu Hirsute Hippo
