@@ -4,7 +4,7 @@ hpsdrconnector (0.4.2-2) hirsute; urgency=low
 
  -- Jakob Ketterl <jakob.ketterl@gmx.de>  Fri, 23 Apr 2021 15:57:00 +0000
 
-hpsdrconnector (0.4.2-1) UNRELEASED; urgency=medium
+hpsdrconnector (0.4.2-1) buster; urgency=medium
 
   * Initial release
 
