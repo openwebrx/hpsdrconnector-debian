@@ -1,4 +1,4 @@
-hpsdrconnector (0.6.0-1) UNRELEASED; urgency=low
+hpsdrconnector (0.6.0-1) bullseye; urgency=low
 
   * multi-receiver support
   * new build for Debian Bullseye
