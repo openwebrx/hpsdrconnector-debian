@@ -1,9 +1,10 @@
-hpsdrconnector (0.6.0-1) bullseye; urgency=low
+hpsdrconnector (0.6.0-1) bullseye jammy; urgency=low
 
   * multi-receiver support
   * new build for Debian Bullseye
+  * new build for Ubuntu Jammy Jellyfish
 
- -- Jakob Ketterl <jakob.ketterl@gmx.de>  Wed, 15 Jun 2022 00:30:00 +0000
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Wed, 15 Jun 2022 00:31:00 +0000
 
 hpsdrconnector (0.4.2-2) hirsute; urgency=low
 
