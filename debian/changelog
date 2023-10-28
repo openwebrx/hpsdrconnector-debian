@@ -1,9 +1,9 @@
-hpsdrconnector (0.6.1-1) bullseye; urgency=low
+hpsdrconnector (0.6.1-1) bullseye jammy; urgency=low
 
   * fixes a bug that prevented the connector to be used in a systemd
     environment
 
- -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sat, 09 Jul 2022 16:06:00 +0000
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sat, 09 Jul 2022 16:07:00 +0000
 
 hpsdrconnector (0.6.0-1) bullseye jammy; urgency=low
 
