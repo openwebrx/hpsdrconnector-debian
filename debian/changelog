@@ -1,8 +1,8 @@
-hpsdrconnector (0.6.3-1) UNRELEASED; urgency=low
+hpsdrconnector (0.6.4-1) UNRELEASED; urgency=low
 
-  * new upstream version 0.6.3
+  * new upstream version 0.6.4
 
- -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sat, 28 Oct 2023 14:09:00 +0000
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Mon, 30 Oct 2023 00:49:00 +0000
 
 hpsdrconnector (0.6.1-1) bullseye jammy; urgency=low
 
