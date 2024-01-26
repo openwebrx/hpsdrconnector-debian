@@ -1,3 +1,9 @@
+hpsdrconnector (0.9.0-1) UNRELEASED; urgency=low
+
+  * new upstream version 0.9.0
+
+ -- Jim Ancona <jim@anconafamily.com>  Fri, 26 Jan 2024 14:17:56 -0500
+
 hpsdrconnector (0.8.0-1) UNRELEASED; urgency=low
 
   * new upstream version 0.8.0
